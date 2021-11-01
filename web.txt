@@ -1,0 +1,12 @@
+How the internet works
+
+The internet works by connecting computers so that they can send and receive data, creating a web of interactions that ordinary people can access and understand.
+The internet works by connecting a huge number of computers all across the world in an interactive network that allows them to send and receive packets of information.
+
+
+If you click a button
+
+
+At a high level, when you click on a link, your browser and operating system figure out where you’ve clicked.  
+The web page that you’re viewing has hidden information associated with whatever you clicked on.  That’s called a Uniform resource locator(URL).  That indicates the next web page that you want to view.
+
